@@ -1,0 +1,25 @@
+product_id,sku,product_name,category,unit_cost
+1,SKU-001,Office item 01,Paper,7.75
+2,SKU-002,Office item 02, equipment ,10.5
+3,SKU-003,Office item 03, furniture ,13.25
+4,SKU-004,Office item 04,Supplies,16.0
+5,SKU-005,Office item 05,Paper,18.75
+6,SKU-006,Office item 06,Equipment,21.5
+7,SKU-007,Office item 07,Furniture,24.25
+8,SKU-008,Office item 08,Supplies,27.0
+9,SKU-009,Office item 09,Paper,29.75
+10,SKU-010,Office item 10,Equipment,32.5
+11,SKU-011,Office item 11,Furniture,35.25
+12,SKU-012,Office item 12,Supplies,38.0
+13,SKU-013,Office item 13,,40.75
+14,SKU-014,Office item 14,,43.5
+15,SKU-015,Office item 15,Furniture,46.25
+16,SKU-016,Office item 16,Supplies,49.0
+17,SKU-017,Office item 17,Paper,51.75
+18,SKU-018,Office item 18,Equipment,54.5
+19,SKU-019,Office item 19,Furniture,57.25
+20,SKU-020,Office item 20,Supplies,60.0
+21,SKU-021,Office item 21,Paper,62.75
+22,SKU-022,Office item 22,Equipment,65.5
+23,SKU-023,Office item 23,Furniture,68.25
+24,SKU-024,Office item 24,Supplies,71.0

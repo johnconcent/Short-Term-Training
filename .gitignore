@@ -1,0 +1,7 @@
+work/
+data/clean/
+.venv/
+__pycache__/
+*.sqlite
+*.db
+.env
